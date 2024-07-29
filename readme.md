@@ -1,6 +1,6 @@
 ## The code of "MCA: Moment Channel Attention Networks"
 
-##  Framework
+##  Framework of MCA
 ![image-1](./MCA_AAAI.jpg)
 
 ## 🖊️ Citation
