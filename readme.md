@@ -9,10 +9,12 @@
 If you find this project useful in your research, please consider cite:
 
 ```BibTeX
-@inproceedings{zhang2024improving,
-  title={Improving the generalization of segmentation foundation model under distribution shift via weakly supervised adaptation},
-  author={Zhang, Haojie and Su, Yongyi and Xu, Xun and Jia, Kui},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={23385--23395},
+@inproceedings{jiang2024mca,
+  title={MCA: Moment Channel Attention Networks},
+  author={Jiang, Yangbo and Jiang, Zhiwei and Han, Le and Huang, Zenan and Zheng, Nenggan},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={3},
+  pages={2579--2588},
   year={2024}
 }
