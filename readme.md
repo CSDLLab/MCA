@@ -1,7 +1,7 @@
 ## The code of "MCA: Moment Channel Attention Networks"
 
 ##  Framework
-![Image text](https://github.com/CSDLLab/MCA/blob/main/MCA_AAAI.pdf)
+![image-1](./MCA_AAAI.pdf)
 
 ## 🖊️ Citation
 
